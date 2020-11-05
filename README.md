@@ -2,7 +2,7 @@
 
 I work as a front-end developer with UI/UX design skills (front-end designer). I´m based in Dhaka, Bangladesh.
 
-Since 2017 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code.
+Since 2017 I've been living and breathing web development and creating modern user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code.
 <br />
 <br />
 ### Languages and Tools:
