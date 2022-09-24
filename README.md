@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Kabir Hasan](https://kabirs-portfolio.web.app/)!
 
-I work as a front-end developer with UI/UX design skills (front-end designer). I´m based in Dhaka, Bangladesh.
+I work as a Software Engineer(Angular). I´m based in Dhaka, Bangladesh.
 
 Since 2017 I've been living and breathing web development and creating modern user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code.
 <br />
