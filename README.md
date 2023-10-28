@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm [Kabir Hasan](https://kabirs-portfolio.web.app/)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"> Hey, I'm [Kabir Hasan](https://kabirs-portfolio.web.app/)!
 
 I work as a Software Engineer(Angular). I´m based in Dhaka, Bangladesh.
 
